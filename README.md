@@ -79,6 +79,10 @@ To **discover biomechanical phenotypes** in Parkinson's patients, **explain thei
 
 ---
 
+## 📁 data/ is local only
+
+---
+
 ## 🤝 Contributing
 
 Open to collaborations! Want to add transfer learning? Test GAN explainability? Deploy with Docker? Get in touch or open a PR.
