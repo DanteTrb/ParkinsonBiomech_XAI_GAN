@@ -63,7 +63,7 @@ To **discover biomechanical phenotypes** in Parkinson's patients, **explain thei
 ## 🔧 Immediate Next Steps
 
 - [x] Finalize data cleaning + numeric conversion  
-- [ ] Proceed to clustering via `02_clustering.ipynb`  
+- [x] Proceed to clustering via `02_clustering.ipynb`  
 - [ ] Train ctGAN models per biomechanical cluster  
 - [ ] Integrate SHAP explainability for simulated patients  
 - [ ] Develop the interactive web interface  

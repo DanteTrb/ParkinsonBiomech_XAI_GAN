@@ -1,0 +1,10 @@
+🧠 Profilazione del Cluster 4:
+
+Le feature che maggiormente guidano le predizioni per questo cluster sono:
+1. Double Support
+2. Single Support
+3. Gait Speed
+
+Questa firma suggerisce un pattern biomeccanico distintivo:
+- Profilo misto con equilibrio fra velocità, supporto e determinismi. Potrebbe rappresentare soggetti in transizione biomeccanica.
+

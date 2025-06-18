@@ -1,0 +1,10 @@
+🧠 Profilazione del Cluster 3:
+
+Le feature che maggiormente guidano le predizioni per questo cluster sono:
+1. Single Support
+2. Double Support
+3. %det AP
+
+Questa firma suggerisce un pattern biomeccanico distintivo:
+- Timing del passo e determinismo in equilibrio. Andatura regolare, possibilmente in soggetti compensati o meno sintomatici.
+

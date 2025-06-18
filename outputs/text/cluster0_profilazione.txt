@@ -1,0 +1,7 @@
+🧠 Profilazione del Cluster 0:
+Le feature che maggiormente guidano le predizioni per questo cluster sono:
+1. **%det AP**
+2. **%det ML**
+3. **Double Support**
+
+Questa firma suggerisce un pattern biomeccanico distintivo che potrebbe essere associato a [INSERISCI IPOTESI CLINICA].

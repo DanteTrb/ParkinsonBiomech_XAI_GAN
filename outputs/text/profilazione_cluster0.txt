@@ -1,0 +1,10 @@
+🧠 Profilazione del Cluster 0:
+
+Le feature che maggiormente guidano le predizioni per questo cluster sono:
+1. %det AP
+2. %det ML
+3. Double Support
+
+Questa firma suggerisce un pattern biomeccanico distintivo:
+- Dominanza delle metriche di determinismo (AP/ML/V) e del supporto doppio. Probabile firma di soggetti con cammino stabile e regolare.
+

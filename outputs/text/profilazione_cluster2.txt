@@ -1,0 +1,10 @@
+🧠 Profilazione del Cluster 2:
+
+Le feature che maggiormente guidano le predizioni per questo cluster sono:
+1. Double Support
+2. Single Support
+3. Gait Speed
+
+Questa firma suggerisce un pattern biomeccanico distintivo:
+- Fasi temporali e velocità dominano. Andatura più lenta o cauta, associabile a soggetti a rischio caduta.
+
