@@ -86,3 +86,5 @@ To **discover biomechanical phenotypes** in Parkinson's patients, **explain thei
 ## 🤝 Contributing
 
 Open to collaborations! Want to add transfer learning? Test GAN explainability? Deploy with Docker? Get in touch or open a PR.
+
+This project integrates explainable AI and generative AI techniques into biomechanics and gait analysis, with a focus on Parkinson's disease.
